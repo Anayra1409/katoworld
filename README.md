@@ -4,31 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kato World</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        header {
-            background-color: #ffcc00;
-            padding: 20px;
-            font-size: 24px;
-        }
-        .content {
-            margin: 20px;
-        }
-        img {
-            width: 300px;
-            border-radius: 10px;
-        }
-        footer {
-            margin-top: 20px;
-            background-color: #ffcc00;
-            padding: 10px;
-        }
-    </style>
 </head>
 <body>
     <header>
